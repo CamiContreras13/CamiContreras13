@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hello! 👋 I´m Camila Contreras 
+##  👩‍💻 Systems Analyst and FullStack Developer Trainee.
 
-<!--
-**CamiContreras13/CamiContreras13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies that I use 👇
+1. HTML y CSS - Bootstrap
+2. JavaScript - TypeScript
+3. React
+4. Basic Angular
+5. MySql - MongoDB - Firebase (Prisma ORM)
+6. NodeJs - Express
+7. Git y GitHub
+8. Agile Methodologies (SCRUM)
 
-Here are some ideas to get you started:
+## Follow me on Linkedin ! 🤝😉 - https://www.linkedin.com/in/camilacontreras13/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
