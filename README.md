@@ -12,5 +12,6 @@
 8. Agile Methodologies (SCRUM)
 
 ## Follow me on Linkedin ! 🤝😉 - https://www.linkedin.com/in/camilacontreras13/ 
+### From 🇦🇷
 
 
