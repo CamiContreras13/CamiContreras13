@@ -1,9 +1,6 @@
 
 <h1 align="center">¡Hello! 👋 I´m Camila Contreras </h1> 
 <h2 align="center">👩‍💻 Systems Analyst and FullStack Developer Trainee.</h2>
-<p align="center">
-  <img src='https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/podcasts/thumbnails/2147495873/episodes/5xoXBI7aTg6B1GljjwQL_coverinsta_.jpg' width="450px" height="300px" alt=''>
-</p>
 <h2 align='center'>
   Technologies that I use 👇
 </h2>
