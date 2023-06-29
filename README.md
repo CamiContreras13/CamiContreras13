@@ -5,7 +5,7 @@
   Technologies that I use 👇
 </h2>
 
-1. HTML y CSS - Bootstrap
+1. HTML y CSS - Bootstrap - SASS - Tailwind 
 2. JavaScript - TypeScript
 3. React
 4. Basic Angular
