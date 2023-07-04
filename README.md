@@ -1,6 +1,6 @@
 
 <h1 align="center">¡Hello! 👋 I´m Camila Contreras </h1> 
-<h2 align="center">👩‍💻 Systems Analyst and FullStack Developer Trainee.</h2>
+<h2 align="center">👩‍💻 Systems Analyst and FullStack Developer Tr. 🚀</h2>
 <h2 align='center'>
   Technologies that I use 👇
 </h2>
