@@ -1,6 +1,7 @@
 
-<h1 align="center">¡Hello! 👋 I´m Camila Contreras </h1> 
-<h2 align="center">👩‍💻 Systems Analyst and FullStack Developer Tr. 🚀</h2>
+<img src="https://github.com/CamiContreras13/CamiContreras13/blob/main/Camila%20Contreras.png?raw=true">
+
+
 <h2 align='center'>
   Technologies that I use 👇
 </h2>
